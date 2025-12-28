@@ -1,4 +1,4 @@
-# rc-beam-design
+# requirements.txt
 streamlit
 numpy
 matplotlib
