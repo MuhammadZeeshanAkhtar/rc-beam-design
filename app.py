@@ -1,7 +1,10 @@
 import streamlit as st
 import math
 import numpy as np
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+
 
 st.set_page_config(page_title="RC Beam Design (ACI 318)", layout="wide")
 
